@@ -1,0 +1,41 @@
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environment folders
+env/
+venv/
+.venv/
+ENV/
+.ENV/
+
+# Ignore Jupyter/Spyder-specific files
+.ipynb_checkpoints/
+.spyderproject
+.spyproject
+
+# Ignore system files (Windows/OneDrive/macOS)
+Thumbs.db
+.DS_Store
+*.bak
+*.tmp
+~$*
+
+# Keep your screenshots out of Git history (optional)
+screenshots/
+
+# Ignore Streamlit cache & secrets
+.streamlit/
+*.toml
+.secrets/
+
+# Ignore environment config files
+*.env
+.env/
+
+# Ignore VSCode settings (if using)
+.vscode/
+
+# Virtual environments
+dojo/
