@@ -68,12 +68,24 @@ This system was designed as a prototype for **Cowabunga Cloud Solutions**, aimed
 
 ## 📸 Screenshots
 
-Add images to your `screenshots/` folder and link them here:
+---
 
-```markdown
+## 📸 Dashboard Previews
+
+### 🛰️ Main Dashboard
 ![Main Dashboard](screenshots/dashboard_main.png)
-![Anomaly Table](screenshots/anomaly_view.png)
-```
+
+### ⚠️ Anomaly Watch
+![Anomaly Watch View](screenshots/anomaly_watch_view.png)
+
+### ☢️ Radiation Alerts
+![Radiation Alerts](screenshots/radiation_alerts.png)
+
+### 🧬 Sensor Clustering
+![Sensor Environments](screenshots/clustered_sensor_environments.png)
+
+### 📈 Metric Trends Over Time
+![Sensor Trends](screenshots/sensor_metric_trends.png)
 
 ---
 
